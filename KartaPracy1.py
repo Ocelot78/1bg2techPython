@@ -24,7 +24,16 @@
 #print(a*b*c)
 
 #zad 5
-a, b = map(int,(input().split())
-print(2*(a+b)/5)
-print(a+b)
-           
+# a = int (input())
+# b = int (input())
+# print(2 *(a + b) / 5)
+# print((a + b) *0,4)
+
+#zad 6
+#cena = int (input())
+#print(cena / 1.23)
+
+#zad 7
+#a = int (input())
+#b = int (input())
+#print(a % b)
