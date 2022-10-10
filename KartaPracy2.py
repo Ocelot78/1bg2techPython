@@ -17,9 +17,41 @@
 # else:
 #   print("jesteś nie pełnoletni uciekaj z polski bo policja cie szuka")
 #Zad 4
-LIMIT = 20
-waga = int(input("Ile waży ten samochód"))
-if waga <=LIMIT:
-  print("jedz sobie")
+# LIMIT = 20
+# waga = int(input("Ile waży ten samochód:"))
+# if waga <=LIMIT:
+#   print("jedz sobie")
+# else:
+#   print("stop")
+# #Zad dodatkowe
+# a = int(input("Wprowadz pierwsza liczbe: "))
+# b = int(input("Wprowadz inną drugą liczbe: "))
+# if a>b:
+#   print("pierwsza liczba jest większa")
+# elif a<b:
+#   print("druga liczba jest większa")
+# else:
+#   print("liczby są równe")
+#Zad 5
+# a = int(input())
+# b = int(input())
+# c = int(input())
+# if (a<c and b>c) or (a>c and b<c):
+#   print("TAK")
+# else:
+#   print("NIE")
+#Zad 6
+# p = int(input())
+# a = int(input())
+# if (a**p - a) % p == 0:
+#   print("TAK")
+# else:
+#   print("NIE")
+#Zad7
+p = int(input("start: "))
+s = int(input("skok: "))
+k = int(input("koniec: "))
+if s*3+p >= k:
+  print("Tak")
 else:
-  print("stop")
+  print("Nie")
