@@ -48,10 +48,10 @@
 # else:
 #   print("NIE")
 #Zad7
-p = int(input("start: "))
-s = int(input("skok: "))
-k = int(input("koniec: "))
-if s*3+p >= k:
-  print("Tak")
-else:
-  print("Nie")
+# p = int(input("start: "))
+# s = int(input("skok: "))
+# k = int(input("koniec: "))
+# if s*3+p >= k:
+#   print("Tak")
+# else:
+#   print("Nie")
