@@ -5,6 +5,7 @@
 #   print("TAK")
 # else:
 #   print("NIE")
+
 #zad 2
 # import math
 # a = int(input())
@@ -13,6 +14,7 @@
 #   print("TAK")
 # else:
 #   print("NIE")
+
 #zad 3
 # k = int(input())
 # l = int(input())
@@ -27,12 +29,14 @@
 #   print("TAK, liczby", k, "i", m, "są równe")
 # else:
 #   print("NIE")
+
 #zad 4
 # a = int(input())
 # b = int(input())
 # c = int(input())
 # d = int(input())
 # print(min(a,b,c,d))
+
 #zad 5
 # a = int(input())
 # b = int(input())
@@ -41,6 +45,7 @@
 #   print("Tak")
 # else:
 #   print("NIE")
+
 #zad6
 # a = int(input())
 # b = int(input())
