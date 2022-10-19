@@ -18,10 +18,10 @@
 # for i in range(105,1000,15):
 #   print(i, end=" ")
 #Zad 3
-p = int(input())
-for i in range(1, p+1):
-  if n % i == 0:
-    print(i)
+# p = int(input())
+# for i in range(1, p+1):
+#   if n % i == 0:
+#     print(i)
 
 #PRE2
 
@@ -34,3 +34,14 @@ for i in range(1, p+1):
 #Pętle for potęg cyfr:0,1,4,9,16 ... 81
 # for i in range(10):
 #   print(i**2, end=" ")
+#Zad 4
+# suma = 0
+# for i in range(10,100):
+#   suma = suma + i
+# print(suma)
+#Zad 5
+n = int(input())
+x = int(input())
+if 0 < x < n:
+  for i in range(0,n):
+    
