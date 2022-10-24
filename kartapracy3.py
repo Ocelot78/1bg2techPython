@@ -40,8 +40,17 @@
 #   suma = suma + i
 # print(suma)
 #Zad 5
+# n = int(input())
+# suma = n * (n+1) //2
+# for i in range(n-1):
+#   k = int(input())
+#   suma = suma - k
+# print("Ty głuptasie nie podałeś", suma)
+#Zad 6
 n = int(input())
-x = int(input())
-if 0 < x < n:
-  for i in range(0,n):
+a, b = 0,1
+for i in range(n):
+  a, b = b, a + b
+  print(a, end=" ")
+
     
