@@ -28,11 +28,11 @@
 #   suma = suma + i
 # print(suma)
 #Zad 7
-k = int(input("podaj liczbe nieparzysta:"))
-suma = 0
-for i in range(k,k+10):
-  suma = suma + i
-print(suma)
+# k = int(input("podaj liczbe nieparzysta:"))
+# suma = 0
+# for i in range(k,k+10,2):
+#   suma = suma + i
+# print(suma)
 
 
 
