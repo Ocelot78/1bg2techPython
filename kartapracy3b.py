@@ -33,8 +33,33 @@
 # for i in range(k,k+10,2):
 #   suma = suma + i
 # print(suma)
+#Zad 8
+W0 = int(input())
+L = int(input())
+suma = ((0.06*W0)/2)
+pieniadze = 0
+for i in range(0,L):
+  pieniadze = pieniadze + suma 
+  print(W0 + pieniadze)
+  
+  
+  
 
 
 
+  
 
+  
+#Zad 9
+# n = int(input())
+# suma = 0
+# for i in range(n,n+100000000000000,21):
+#   suma = suma + i
+# print(suma)
+
+
+
+#Zad 10
+# for i in range(1,1001,24):
+#   print(i, end=" ")
 
