@@ -43,41 +43,15 @@ for i in range(0,L*6):
   print(W0 + pieniadze)
 #Zad 9
 # n = int(input())
-# suma = 0
-# for i in range(n,n+100000000000000,21):
-#   suma = suma + i
-# print(suma)
-
-
-
-=======
-W0 = int(input())
-L = int(input())
-suma = ((0.06*W0)/2)
-pieniadze = 0
-for i in range(0,L):
-  pieniadze = pieniadze + suma 
-  print(W0 + pieniadze)
-  
-  
-  
-
-
-
-  
-
-  
-#Zad 9
-# n = int(input())
-# suma = 0
-# for i in range(n,n+100000000000000,21):
-#   suma = suma + i
-# print(suma)
-
-
-
->>>>>>> origin/main
-#Zad 10
-# for i in range(1,1001,24):
-#   print(i, end=" ")
+# num = 0
+# for i in range(n):
+#     num += (100*i)+21
+# print(num)
+#zad 10
+# import math
+# for i in range(1,1000):
+#   if i%10==math.sqrt(i):
+#     print(i)
+#   elif i%100==math.sqrt(i):
+#     print(i)
 
