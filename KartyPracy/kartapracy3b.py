@@ -34,13 +34,13 @@
 #   suma = suma + i
 # print(suma)
 #Zad 8
-W0 = int(input("Pieniądze: "))
-L = int(input("Podaj czas w półroczach: "))
-suma = ((0.06*W0)/12)
-pieniadze = 0
-for i in range(0,L*6):
-  pieniadze = pieniadze + suma 
-  print(W0 + pieniadze)
+# W0 = int(input("Pieniądze: "))
+# L = int(input("Podaj czas w półroczach: "))
+# suma = ((0.06*W0)/12)
+# pieniadze = 0
+# for i in range(0,L*6):
+#   pieniadze = pieniadze + suma 
+#   print(W0 + pieniadze)
 #Zad 9
 # n = int(input())
 # num = 0
