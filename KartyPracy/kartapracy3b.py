@@ -38,7 +38,7 @@
 # L = int(input("Podaj czas w półroczach: "))
 # suma = ((0.06*W0)/12)
 # pieniadze = 0
-# for i in range(0,L*6):
+# for i in range(L*6):
 #   pieniadze = pieniadze + suma 
 #   print(W0 + pieniadze)
 #Zad 9

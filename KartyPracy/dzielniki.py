@@ -11,3 +11,4 @@
 #   print("Liczba jest pierwsza")
 # else:
 #   print("Liczba nie jest pierwsza")
+
