@@ -97,3 +97,10 @@
 # else:
 #   print("Nie")
 #Zad 6
+# a,b,c = int(input()),int(input()),int(input())
+# if a**2 + b**2 == c**2:
+#   print("Prostokątny")
+# elif a**2 + b**2 < c**2:
+#   print("rozwartokątny")
+# elif a**2 + b**2 > c**2:
+#   print("ostrokątny")
